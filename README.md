@@ -1,2 +1,2 @@
-# python-practices
-archived activities
+# Python-Practices
+Archived activities from NetAcad practice problems
